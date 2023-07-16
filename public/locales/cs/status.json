@@ -3,7 +3,7 @@
   "nodeInfo": "Informace o uzlu",
   "spaceUsed": "Místo využito",
   "networkTraffic": "Síťový provoz",
-  "bandwidthOverTime": "Internetový provoz přes čas",
+  "bandwidthOverTime": "Internetový provoz v průběhu času",
   "bandwidthByPeer": "Internetový provoz podle uzlu",
   "distributionOfPeers": "Geografická distribuce uzlů",
   "pieChartLabel": "{count, plural, one {{percent}% ({count} Uzel)} few {{percent}% ({count} Uzlů)} many {{percent}% ({count} Uzlů)} other {{percent}% ({count} Uzlů)}}",
